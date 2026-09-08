@@ -1,5 +1,7 @@
 # Ответы по задачам ДКБ (эпик CSDINPROJT-25796)
 
+Неформальный текст для вставки в Jira / чат команды: [KOMMENTARIJ-DLYA-KOMANDY.md](./KOMMENTARIJ-DLYA-KOMANDY.md).
+
 **Проект:** PJ07253-MMB23 / ADRBT-20339 — Страхование в SFA/SFACall с AlfaCapture 1.0  
 **PPM:** PJ07253-MMB23  
 **Vision:** https://rsm/visions/vision-details/6a509a36a4ce07381201a916  
